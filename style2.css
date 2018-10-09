@@ -1,0 +1,37 @@
+aside{
+    color: white;
+    background-color: #9a1414;
+    display: block;
+    width: 600px;
+    height: 635px;
+    padding: 10px;
+   
+}
+body{
+    margin: 0;
+
+}
+h1{
+    margin-left: 50px;
+    margin-top: 200px;
+    font-size: 60px;
+    font-family: 'Open Sans', sans-serif;
+
+}
+#p{
+    margin-left: 100px;
+    font-size: 40px;
+    font-family: 'Open Sans', sans-serif;
+}
+span{
+    margin-left: 100px;
+}
+.right_part{
+    margin-left: 650px;
+    margin-top: -650px;
+}
+h3{
+    margin-left: 200px;
+    font-family: 'Open Sans', sans-serif;
+    
+}

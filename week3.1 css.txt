@@ -1,0 +1,21 @@
+.letters{
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: 400px;
+    border: 1px solid red;
+
+    
+}
+.letters div{
+    border-radius: 20px;
+    background-color: red;
+    width: 8px;
+    height: 8px;
+    margin: 2px;
+    text-align: center;
+    color: white;
+    font-size: 15px;
+    padding: 15px;
+    
+
+}
